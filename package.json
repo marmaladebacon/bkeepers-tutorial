@@ -1,0 +1,12 @@
+{
+  "name": "bkeepers-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial for github app",
+  "main": "index.js",
+  "author": "mko",
+  "license": "MIT",
+  "dependencies": {
+    "github-app": "^3.0.0",
+    "github-webhook-handler": "^0.6.0"
+  }
+}
